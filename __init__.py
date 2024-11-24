@@ -23,12 +23,13 @@
 
 bl_info = {
     "name": "Eevee Opacity Panel",
-    "author": "CDMJ",
-    "version": (2, 1, 0),
+    "author": "Dyo-Anima and CDMJ",
+    "version": (2, 2, 0),
     "blender": (4, 3, 0),
     "location": "Toolbar > Misc Tab > Opacity",
     "description": "Helper panel for multiple object opacity assignment",
     "warning": "",
+    "doc_url": "https://github.com/Dyo-Anima/opacity_helper_updatefix",
     "category": "Object"
 }
 
