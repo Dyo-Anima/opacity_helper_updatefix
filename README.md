@@ -9,7 +9,7 @@ Easily change the opacity settings of multiple selected objects in Eevee at once
 
 This add-on allows you to select multiple objects and update their material Blend Mode simultaneously, saving time and effort. No need to adjust materials individually; simply apply the desired setting to all selected meshes with active materials.
 
-## What's New (v2.1.0)
+## What's New (v2.2.0)
 
 - Updated for **Blender 4.3** compatibility.
 - Removed outdated Blend Mode options (`MULTIPLY` and `ADD`) that are no longer supported.
