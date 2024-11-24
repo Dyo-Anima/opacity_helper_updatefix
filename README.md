@@ -1,6 +1,34 @@
-# opacity_helper
-Help change opacity of groups of selections at once in Eevee
+```md
+# Opacity Helper
 
+**Eevee Opacity Panel**  
+Easily change the opacity settings of multiple selected objects in Eevee at once.
 
-Select multiple objects at once and change their material Blend Mode for Eevee without having to iterate individually.
-This was an answer to a blender.stackexchange.com question that got me thinking of an easy way to automate it.
+## Description
+
+This add-on allows you to select multiple objects and update their material Blend Mode simultaneously, saving time and effort. No need to adjust materials individually; simply apply the desired setting to all selected meshes with active materials.
+
+## What's New (v2.1.0)
+
+- Updated for **Blender 4.3** compatibility.
+- Removed outdated Blend Mode options (`MULTIPLY` and `ADD`) that are no longer supported.
+- Renamed modes to reflect Blender's current terminology:
+  - `Alpha Blended` (formerly Alpha Blend).
+  - `Alpha Dithered` (formerly Alpha Hashed).
+- Changes are now applied only to **mesh objects** with active materials, ignoring unsupported objects like bones or meshes without materials.
+- Simplified and clarified UI in the toolbar for ease of use.
+
+## Acknowledgements
+
+Special thanks to the original author, **CDMJ**, for creating this add-on and sharing it with the Blender community. This update preserves the functionality and intent of the original script while ensuring it works seamlessly with the latest Blender features.
+
+## Installation
+
+1. Download the script file.
+2. In Blender, go to `Edit > Preferences > Add-ons`.
+3. Click `Install...` and select the script file.
+4. Enable the "Eevee Opacity Panel" add-on.
+5. Find the panel in the `3D View > Tool Shelf > Misc Tab > Opacity`.
+
+Enjoy faster material adjustments in Eevee!
+```
