@@ -21,6 +21,8 @@ This add-on allows you to select multiple objects and update their material Blen
 
 Special thanks to the original author, **CDMJ**, for creating this add-on and sharing it with the Blender community. This update preserves the functionality and intent of the original script while ensuring it works seamlessly with the latest Blender features.
 
+https://github.com/artistCDMJ/opacity_helper/tree/master
+
 ## Installation
 
 1. Download the script file.
