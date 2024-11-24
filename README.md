@@ -1,4 +1,3 @@
-```md
 # Opacity Helper
 
 **Eevee Opacity Panel**  
