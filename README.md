@@ -27,11 +27,11 @@ https://github.com/artistCDMJ/opacity_helper/tree/master
 
 ## Installation
 
-1. Download the script file.
+1. Download download as zip.
 2. In Blender, go to `Edit > Preferences > Add-ons`.
-3. Click `Install...` and select the script file.
+3. Click `Install...` and select the zip file.
 4. Enable the "Eevee Opacity Panel" add-on.
-5. Find the panel in the `3D View > Tool Shelf > Misc Tab > Opacity`.
+5. Find the panel in the `3D View > Tool Shelf > Misc Tab > Opacity Helper`.
 
 Enjoy faster material adjustments in Eevee!
-```
+
