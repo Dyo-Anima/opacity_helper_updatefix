@@ -3,6 +3,8 @@
 **Eevee Opacity Panel**  
 Easily change the opacity settings of multiple selected objects in Eevee at once.
 
+![imagen](https://github.com/user-attachments/assets/bfeff7e7-8c8b-46e2-932f-b68a75b0ebd4)
+
 ## Description
 
 This add-on allows you to select multiple objects and update their material Blend Mode simultaneously, saving time and effort. No need to adjust materials individually; simply apply the desired setting to all selected meshes with active materials.
